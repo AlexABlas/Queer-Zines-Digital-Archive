@@ -3,7 +3,9 @@ Home,/
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
-Map,/map.html
+Maps,,
+Map by Work,/map.html,Maps
+Map by Author,/map_authors.html,Maps
 Timeline,/timeline.html
 Data,/data.html
 About,,
