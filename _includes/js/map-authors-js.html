@@ -1,7 +1,7 @@
 {%- if site.data.theme.icons -%}{% assign icons = site.data.theme.icons %}{% else %}
 {% assign cb_icons = site.pages | where: "name","cb-icons.svg" | first %}
 {% assign icons = cb_icons.icons %}{%- endif -%}
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.latitude' -%}
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.latitude_authors' -%}
 {%- assign fields = site.data.config-map -%}
 <!-- load leaflet dependencies -->
 <script src="{{ '/assets/lib/leaflet/leaflet.js' | relative_url }}"></script>
@@ -215,12 +215,12 @@ var mapPageInit = function (cb_items) {
     var cb_items = cb_items.filter(item => !item.parentid);
     {% endunless %}
     // filter out no lat long
-    var items = cb_items.filter(function(item) { return item.latitude_authors && item.longitude_authors; });
+    var items = cb_items.filter(function(item) { return item.latitude && item.longitude; });
     // get configured fields
     for (var i = 0; i < items.length; i++) {
         var feature = { 
             "type":"Feature", 
-            "geometry": { "type":"Point", "coordinates": [ items[i].longitude_authors, items[i].latitude_authors ] }
+            "geometry": { "type":"Point", "coordinates": [ items[i].longitude_authors, items[i].latitude ] }
         };
         feature.properties = items[i];
         // remove undefined and null metadata values
