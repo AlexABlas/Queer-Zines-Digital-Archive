@@ -23,6 +23,15 @@ We thank the participants of our workshop in SCMS Chicago 2026, who contributed 
 
 We also thank the University of Pittsburgh and University of Miami for funding the conference cost of the workshop presenters.
 
+**LASA Paris 2026:**
+
+We thank the participants of our workshop in Lasa Paris 2026, who contributed to this digital archive:
+* Pepita Pérez
+* Salvador
+* Another Name
+
+We also thank to Albert Palacios, from the Archives, Libraries, and Digital Scholarship Section. 
+
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
 Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
