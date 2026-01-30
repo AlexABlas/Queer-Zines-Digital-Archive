@@ -10,7 +10,18 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
+## About This Digital Archive
+
+This repository was created by Alexandra Arana Blas (University of Pittsburgh) and Euge Stumm (University of Miami) to rescue the queer zines published in what we can tentatively call the "Queer South." By "Queer South" we mean gender and sexual dissident experiences in the Global South and its diaspora, hereby emphasizing global efforts of solidarity through queer independent press.
+
+**SCMS Chicago 2026:**
+
+We thank the participants of our workshop in SCMS Chicago 2026, who contributed to this digital archive:
+* Pepita Pérez
+* Salvador
+* Another Name
+
+We also thank the University of Pittsburgh and University of Miami for funding the conference cost of the workshop presenters.
 
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
 
