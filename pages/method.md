@@ -1,6 +1,6 @@
 ---
 title: Method
-layout: default
+layout: page
 permalink: /method.html
 # include CollectionBuilder info at bottom
 # Edit the markdown on in this file to describe your collection
