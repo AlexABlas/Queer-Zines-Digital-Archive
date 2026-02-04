@@ -1,6 +1,6 @@
 ---
 title: Our Goal
-layout: default
+layout: page
 permalink: /ourgoal.html
 # include CollectionBuilder info at bottom
 # Edit the markdown on in this file to describe your collection
