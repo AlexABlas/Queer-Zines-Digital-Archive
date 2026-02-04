@@ -1,6 +1,6 @@
 ---
 title: How To Cite This Project
-layout: default
+layout: page
 permalink: /howtocite.html
 # include CollectionBuilder info at bottom
 # Edit the markdown on in this file to describe your collection
