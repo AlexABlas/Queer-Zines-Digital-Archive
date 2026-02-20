@@ -8,7 +8,7 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-circulation,Circulation
+circulation,Circulation,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
