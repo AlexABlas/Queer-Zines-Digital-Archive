@@ -25,7 +25,7 @@ We thank the participants of our workshop in SCMS Chicago 2026, who contributed 
 * Salvador
 * Another Name
 
-We also thank the University of Pittsburgh and University of Miami for funding the conference cost of the workshop presenters.
+We also thank the University of Pittsburgh and University of Miami for funding the conference cost of the workshop presenters. Furthermore we thank the SCMS Latinx/a/o Caucus for sponsoring this workshop.
 
 **LASA Paris 2026:**
 
