@@ -28,6 +28,10 @@ Over the last decades, even though the literary canon increasingly incorporated 
 
 In consonance with Taylor’s proposal, we do not seek to reify zines solely as printed publications in which the consumption through reading is the sole and ultimately purpose. As Taylor observes, zines also function as repertoire, legible through ephemeral acts such as book fairs, networks of artistic collaboration, launch performances, and other situated encounters. In other words, zines have an embodied component, a relational ephemerality. This perspective resonates with Taylor’s approach to literature and performance in Latin America. The repertoire, she argues, “enacts embodied memory” and “requires presence” (2003, 20). In contrast to the stability attributed to the archive, the practices enacted through the repertoire “do not remain the same”; rather, they “keep and transform choreographies of meaning”  (2003, 20). For this reason, our digital archive seeks to emphasize the repertoire embedded in these zines: the temporal and spatial contexts of their publication, their circulation and mapping, and their interaction within the digital paradigm.
 
+## For Users and For Developers: 
+
+The technical components of this project share the open-source license of CollectionBuilder, and all the intellectual components belonging to the project are published under Creative Commons CC-BY 4.0. This means that any person can benefit from part or the totality of this project for remixing, making new projects, or adding our metadata into other projects under CC-BY 4.0. 
+
 ## List of References
 
 * Molloy, Sylvia. "La cuestión del género: propuestas olvidadas y desafíos críticos." *Revista iberoamericana* 66.193 (2000): 815-819.  
