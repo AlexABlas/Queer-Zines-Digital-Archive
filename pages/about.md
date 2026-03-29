@@ -21,9 +21,10 @@ The archive was built using [CollectionBuilder](https://collectionbuilder.github
 **SCMS Chicago 2026:**
 
 We thank the participants of our workshop in SCMS Chicago 2026, who contributed to this digital archive:
-* Pepita Pérez
-* Salvador
-* Another Name
+* Terra E. Talamh, Ohio University
+* David Pirszel, Chicago, IL
+* Susanne Heckertt, Tulane University
+* Elizabeth Cornick, University of Miami
 
 We also thank the University of Pittsburgh and University of Miami for funding the conference cost of the workshop presenters. Furthermore we thank the SCMS Latinx/a/o Caucus for sponsoring this workshop.
 
