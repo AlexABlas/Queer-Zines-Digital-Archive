@@ -31,9 +31,7 @@ We also thank the University of Pittsburgh and University of Miami for funding t
 **LASA Paris 2026:**
 
 We thank the participants of our workshop in Lasa Paris 2026, who contributed to this digital archive:
-* Pepita Pérez
-* Salvador
-* Another Name
+* Section Archives, Libraries and Digital Scholarship
 
 We also thank to Albert Palacios, from the Archives, Libraries, and Digital Scholarship Section. 
 
